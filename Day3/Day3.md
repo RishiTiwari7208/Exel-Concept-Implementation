@@ -9,11 +9,11 @@ AND/OR Applications	Combining logic gates to manage more complex, real-world con
 Mixed Logic Models	Creative challenges combining IF, AND, OR in nested structures.
 
 ## 📂 Workbook Overview
-The Excel file <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day3.xlsx">Day3.xlsx</a> contains multiple well-organized sheets, each with focused examples and explanations.
+The Excel file <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day3/Day3.xlsx">Day3.xlsx</a> contains multiple well-organized sheets, each with focused examples and explanations.
 
 ## 📸 Screenshots
- . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Image1.png">Image1</a>
- . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Image2.png">Image2</a>
- . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Image3.png">Image3</a>
- . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Image4.png">Image4</a>
- . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Image5.png">Image5</a>
+ . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day3/Image1.png">Image1</a>
+ . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day3/Image2.png">Image2</a>
+ . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day3/Image3.png">Image3</a>
+ . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day3/Image4.png">Image4</a>
+ . <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day3/Image5.png">Image5</a>
