@@ -1,20 +1,28 @@
-Concept Implementation
+## 📘 Excel Skills Workbook: Common Functions & Cell Referencing
 
-I'm exicted to share my exel concept implementation file for progress tracking and for analysis purpose.
+This repository contains a self-created Excel workbook designed to demonstrate my growing proficiency in Microsoft Excel, with a focus on two foundational concepts:
 
-## DATASET USED 
-- <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day2.xlsx">DATASET VIEW</a>
+## ✅ Common Excel Functions
 
-.THIS IS JUST FOR PRACTISING AND IMPLEMENTING THE CONCEPT THAT I HAVE LEARNED.
+## 🔗 Cell Referencing Techniques
 
-- COMMON FUNCTION1 <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Screenshot1.png">Screenshot1</a>
+The workbook serves as both a learning resource and a personal milestone, showcasing the practical skills I’ve developed while exploring Excel for data analysis, automation, and general spreadsheet tasks.
 
-- COMMON FUNCTION2 <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot2.png">Screenshot2</a>
+## 🎯 Purpose
 
-- CELL REFERENCING1 <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot3.png">Screenshot3</a>
+. This project is part of my personal learning journey in data tools and spreadsheet proficiency. I created this workbook to:
+. Practice and apply essential Excel concepts
+. Build a reference I can revisit and expand over time
+. Showcase my progress and capabilities in using Excel effectively
 
-- CELL REFERENCING2 <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot4.png">Screenshot4</a>
+## 📂 Workbook Overview
 
-- CELL REFERENCING3 <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot5.png">Screenshot5</a>
+The Excel file <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Day2.xlsx">Day2.xlsx</a> contains multiple well-organized sheets, each with focused examples and explanations.
 
+## 📸 Screenshots
 
+   .  <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/Screenshot1.png">ScreenShot1</a>
+   .  <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot2.png">ScreenShot2</a>
+   .  <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot3.png">ScreenShot3</a>
+   .  <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot4.png">ScreenShot4</a>
+   .  <a href="https://github.com/RishiTiwari7208/Exel-Concept-Implementation/blob/main/ScreenShot5.png">ScreenShot5</a>
